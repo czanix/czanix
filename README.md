@@ -37,7 +37,7 @@ Padrões que usamos em produção há 15 anos. Open source. Clone, rode `docker 
 |-------|------|----------|
 | **Node.js / TypeScript** | [`boilerplate-api-node`](https://github.com/czanix/boilerplate-api-node) | PostgreSQL, Express, Clean Architecture, OWASP |
 | **Python / FastAPI** | [`boilerplate-api-python`](https://github.com/czanix/boilerplate-api-python) | AsyncIO, Result Pattern, Pydantic |
-| **C# / .NET 8** | [`boilerplate-api-csharp`](https://github.com/czanix/boilerplate-api-csharp) | MediatR, CQRS, Entity Framework |
+| **C# / .NET 10** | [`boilerplate-api-csharp`](https://github.com/czanix/boilerplate-api-csharp) | MediatR, CQRS, Entity Framework |
 | **Java / Spring Boot** | [`boilerplate-api-java`](https://github.com/czanix/boilerplate-api-java) | Hexagonal, Flyway, Sealed Interfaces |
 | **Go / Gin** | [`boilerplate-api-go`](https://github.com/czanix/boilerplate-api-go) | pgx, zero-alloc, Makefile |
 | **Node.js / MongoDB** | [`boilerplate-api-nodejs`](https://github.com/czanix/boilerplate-api-nodejs) | Express, text search, indexes |
