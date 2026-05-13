@@ -58,6 +58,7 @@ npx create-czanix-app@latest
 | **Vue 3.5** | [`boilerplate-frontend-vue`](https://github.com/czanix/boilerplate-frontend-vue) | Composition API, Pinia, Router |
 | **Angular 19** | [`boilerplate-frontend-angular`](https://github.com/czanix/boilerplate-frontend-angular) | Standalone, Signals, HttpClient |
 | **Next.js 15** | [`boilerplate-frontend-nextjs`](https://github.com/czanix/boilerplate-frontend-nextjs) | App Router, SSR/SSG, SEO |
+| **Astro 5.0** | [`boilerplate-website-astro`](https://github.com/czanix/boilerplate-website-astro) | Island Architecture, Zero JS, Tailwind V4 |
 | **SvelteKit** | [`boilerplate-frontend-svelte`](https://github.com/czanix/boilerplate-frontend-svelte) | Zero Virtual DOM, Runes, First Contentful Paint |
 
 ### Mobile, Dados & IA
