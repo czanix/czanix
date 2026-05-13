@@ -27,9 +27,15 @@ Atuamos onde a engenharia encontra o negócio. Resolvemos caos técnico e escala
 
 ---
 
-## 🚀 Boilerplates — Clone e Comece a Codar
+## 🚀 Boilerplates — O Padrão Top 0.01%
 
-Padrões que usamos em produção há 15 anos. Open source. Clone, rode `docker compose up`, e comece.
+Pare de clonar repositórios na mão. Scaffold a arquitetura Czanix com um único comando:
+
+```bash
+npx create-czanix-app@latest
+```
+
+*(Ou navegue pela nossa stack homologada abaixo)*
 
 ### Backend APIs
 
@@ -42,6 +48,7 @@ Padrões que usamos em produção há 15 anos. Open source. Clone, rode `docker 
 | **Go / Gin** | [`boilerplate-api-go`](https://github.com/czanix/boilerplate-api-go) | pgx, zero-alloc, Makefile |
 | **Node.js / MongoDB** | [`boilerplate-api-nodejs`](https://github.com/czanix/boilerplate-api-nodejs) | Express, text search, indexes |
 | **Rust / Axum** | [`boilerplate-api-rust`](https://github.com/czanix/boilerplate-api-rust) | SQLx compile-time, Tokio, zero GC |
+| **Elixir / Phoenix** | [`boilerplate-api-elixir`](https://github.com/czanix/boilerplate-api-elixir) | WebSockets, Real-time extreme concurrency, OTP |
 
 ### Frontend
 
@@ -51,12 +58,15 @@ Padrões que usamos em produção há 15 anos. Open source. Clone, rode `docker 
 | **Vue 3.5** | [`boilerplate-frontend-vue`](https://github.com/czanix/boilerplate-frontend-vue) | Composition API, Pinia, Router |
 | **Angular 19** | [`boilerplate-frontend-angular`](https://github.com/czanix/boilerplate-frontend-angular) | Standalone, Signals, HttpClient |
 | **Next.js 15** | [`boilerplate-frontend-nextjs`](https://github.com/czanix/boilerplate-frontend-nextjs) | App Router, SSR/SSG, SEO |
+| **SvelteKit** | [`boilerplate-frontend-svelte`](https://github.com/czanix/boilerplate-frontend-svelte) | Zero Virtual DOM, Runes, First Contentful Paint |
 
-### Mobile & IA
+### Mobile, Dados & IA
 
 | Stack | Repo | Destaque |
 |-------|------|----------|
 | **Flutter** | [`boilerplate-flutter`](https://github.com/czanix/boilerplate-flutter) | Riverpod, offline-first, GoRouter |
+| **React Native (Expo)** | [`boilerplate-expo`](https://github.com/czanix/boilerplate-expo) | Expo Router, OTA Updates, Skia |
+| **Data Engineering** | [`boilerplate-data-dbt`](https://github.com/czanix/boilerplate-data-dbt) | ELT, dbt Core, Snowflake/BigQuery |
 | **AI / RAG Pipeline** | [`boilerplate-ai-rag`](https://github.com/czanix/boilerplate-ai-rag) | Vertex AI, pgvector, multi-provider |
 
 ### O que todos compartilham
