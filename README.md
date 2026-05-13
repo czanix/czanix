@@ -50,7 +50,7 @@ Padrões que usamos em produção há 15 anos. Open source. Clone, rode `docker 
 | **React 19** | [`boilerplate-frontend-react`](https://github.com/czanix/boilerplate-frontend-react) | React Query, Zustand, Vite |
 | **Vue 3.5** | [`boilerplate-frontend-vue`](https://github.com/czanix/boilerplate-frontend-vue) | Composition API, Pinia, Router |
 | **Angular 19** | [`boilerplate-frontend-angular`](https://github.com/czanix/boilerplate-frontend-angular) | Standalone, Signals, HttpClient |
-| **Next.js 15** | [`boilerplate-frontend-next`](https://github.com/czanix/boilerplate-frontend-next) | App Router, SSR/SSG, SEO |
+| **Next.js 15** | [`boilerplate-frontend-nextjs`](https://github.com/czanix/boilerplate-frontend-nextjs) | App Router, SSR/SSG, SEO |
 
 ### Mobile & IA
 
